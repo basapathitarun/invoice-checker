@@ -1,17 +1,14 @@
 # Project Title : Invoice Checker 
 
 # Introduction 
-  This project helps to Scan barcode,add to cart, gets total cost.
+  
 
 # TechStack 
   - FastApi
   - PostgreSQL
   - Streamlit
 
-# Features 
-  - Scan Bar code
-  - Add to Cart
-  - Gets Total cost of items in Cart
+
 
 # Run code 
   ## Install necassary modules 
